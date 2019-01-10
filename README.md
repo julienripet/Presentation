@@ -13,3 +13,8 @@ I also really like food, here's my top 3:
      * 4 Cheese
      * Shrooms
   3. Coffee
+  
+|text|text|
+|----|-----|
+|Se trouve ici dessous le logo becode pour tester si l'on peut mettre des images dans les tables| Et cette case-ci est principalement présente afin de test la mise en page des cases lorsque elles ont beaucoup de textes à l'interieur, j'y raconte donc un peu n'importe quoi. Avez-vous remarqué que je suis repassé en français, sans m'en rendre, d'un paragraphe à l'autre|
+|![Logo Becode](https://corporate.orange.be/sites/default/files/images/Becode%20Logo.png)|Becode|
